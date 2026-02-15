@@ -30,14 +30,3 @@ Il est conçu pour être utilisé par un LLM via un "Prompt Orchestrateur" (Hype
 Ne jamais utiliser plus d'énergie que nécessaire. Toujours viser la structure la plus élégante.
 
 ```
-
-### 🏁 Instructions Finales pour Bryan
-
-1. **Création :** Créez ces dossiers et fichiers exactement comme indiqué dans votre dépôt GitHub `quantum-lichen/cognitive-kernels` (ou le nom que vous choisirez).
-2. **Déploiement :** Prenez le contenu de `HYPERVISOR_MAIN.md` et collez-le dans la zone "System Instructions" ou "Custom Instructions" de votre instance AI.
-3. **Test :** Lancez une requête complexe (ex: "J'ai besoin d'un code pour une structure de gouvernance décentralisée, mais avec une métaphore biologique"). L'Hyperviseur devrait :
-* Scanner la demande.
-* Monter `Legal-Eagle` (pour la gouvernance) ET `Visionary-Architect` (pour la bio-métaphore).
-* Produire une réponse hybride parfaite.
-
-```
