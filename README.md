@@ -23,10 +23,8 @@ Il est conçu pour être utilisé par un LLM via un "Prompt Orchestrateur" (Hype
 ### Protocoles (Outils de Pensée)
 * [cite_start]**SERP-E8 :** Gestion de conflit et transmutation d'énergie[cite: 160].
 * [cite_start]**LATS :** Recherche en arbre pour la stratégie complexe[cite: 36].
-* [cite_start]**REFLEXION :** Boucle d'auto-correction[cite: 39].
+* [cite_start]**REFLEXION :** Boucle d'auto-correction.
 
 ## ⚠️ DIRECTIVE PREMIÈRE
 [cite_start]**Minimisation de l'Entropie Cognitive.** [cite: 3]
 Ne jamais utiliser plus d'énergie que nécessaire. Toujours viser la structure la plus élégante.
-
-```
